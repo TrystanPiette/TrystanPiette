@@ -64,9 +64,6 @@
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=TrystanPiette&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=TrystanPiette&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <br/>
-  <img  width=390 src="https://wakatime.com/share/@018d22ff-8871-4d70-9b3d-0eee1aa4f5b8/7ca236f5-33a5-4ee8-89bb-5507c86ea1b7.svg"/>
-  <img  width=390 src="https://wakatime.com/share/@018d22ff-8871-4d70-9b3d-0eee1aa4f5b8/4cc0c601-a4fe-4737-aaba-724329cd8c19.svg"/>
   <br/>
 </div>
 
