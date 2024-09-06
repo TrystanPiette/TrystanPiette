@@ -28,12 +28,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="README_FR.md" target="_blank">
-     <img src="https://img.shields.io/badge/🇫🇷 Read%20in%20French-333333?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Read in French" />
-  </a>
-</div>
-
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
