@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/trystan-piette-307a02298/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="TODO" target="_blank">
+  <a href="https://trystanpiette.github.io/Portfolio-Website/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
