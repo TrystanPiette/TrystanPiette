@@ -8,9 +8,9 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **My Portfolio**
+ 🔭 I’m currently working on **Bottle Cap Classifier Using a Multilayer Perceptron (MLP) Neural Network**
  
- 🌱 I’m currently learning **C# and C++**
+ 🌱 I’m currently learning **Angular**
 
 ⚡ Fun fact **Lizards always run west when scared**
 
