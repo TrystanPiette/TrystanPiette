@@ -40,15 +40,4 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-
-   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/TrystanPiette/TrystanPiette/output/github-contribution-grid-snake-dark.svg" />
-
-
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
